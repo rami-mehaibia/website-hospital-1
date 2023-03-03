@@ -93,4 +93,4 @@ Versions
 Auteurs
 -------------------------------------
 
-Ce projet a été réalisé par Rami MEHAIBIA,  et Rayene HAKOUME, étudiants en Master 1 MIAGE à Polytech Lyon.
+Ce projet a été réalisé par Rami MEHAIBIA,  et Rayene HAKOUME, étudiants en Master 1 MIAGE à Polytech Lyon. 
